@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "jest": "^25.4.0",
+    "prettier": "^2.0.5"
+  }
+}
